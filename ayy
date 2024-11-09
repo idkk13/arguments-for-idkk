@@ -14,7 +14,7 @@ return {
 	84366677940861, -- // Da Uphill
 	132023669786646, -- // Da Bank
     },
-    ["UpdateMousePos"] = {
+    ["MousePosUpdate"] = {
   9825515356, -- // Hood customs
     },
     ["UpdateMousePos"] = {
